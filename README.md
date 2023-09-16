@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 <h1>Retrieval-based-Voice-Conversion-WebUI</h1>
@@ -142,3 +143,4 @@ python infer-web.py
 <a href="https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/graphs/contributors" target="_blank">
   <img src="https://contrib.rocks/image?repo=RVC-Project/Retrieval-based-Voice-Conversion-WebUI" />
 </a>
+--->
